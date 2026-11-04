@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Vue / Node
+node_modules/
+.npm-cache/
+.vite/
+coverage/
+*.local
+*.log
+.DS_Store

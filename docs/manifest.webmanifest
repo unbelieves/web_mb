@@ -1,0 +1,12 @@
+{
+  "name": "Modbus 工作台",
+  "short_name": "Modbus",
+  "description": "充电桩 Modbus RTU 参数读写与通信诊断",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f8",
+  "theme_color": "#123e58",
+  "icons": [{ "src": "app-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
